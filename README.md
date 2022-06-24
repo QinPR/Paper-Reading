@@ -7,6 +7,9 @@ Everyday(I guess) I will upload one Paper I read as well as the notes I summariz
 
 #### Table of contents
 
-| In-Network Aggregation for Shared Machine Learning Clusters (MLsys' 2021) | 2022-06-23 |
-| ------------------------------------------------------------ | ---------- |
+| In-Network Aggregation for Shared Machine Learning Clusters (MLsys' 2021) | 2022-06-23     |
+| ------------------------------------------------------------ | -------------- |
+| **Scaling Distributed Machine Learning with the Parameter Server (OSDI' 2014)** | **2022-06-24** |
+
+
 
