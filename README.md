@@ -11,6 +11,7 @@ Everyday(I guess) I will upload one Paper I read as well as the notes I summariz
 | ------------------------------------------------------------ | -------------- |
 | **Scaling Distributed Machine Learning with the Parameter Server (OSDI' 2014)** | **2022-06-24** |
 | **Parameter Server for Distributed Machine Learning (NIPS' 2013)** | **2022-06-25** |
+| **GPipe: Easy Scaling with Micro-Batch Pipeline Parallelism (NIPS' 2019)** | **2022-06-29** |
 
 
 
