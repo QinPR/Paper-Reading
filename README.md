@@ -16,5 +16,5 @@ Everyday(I guess) I will upload one Paper I read as well as the notes I summariz
 | **Time Series Forecasting With Deep Learning: A Survey(arXiv'2020)** | **2022-07-24** |
 | **Deep State Space Models for Time Series Forecasting(NIPS'2018)** | **2022-07-25** |
 | **Yuzu: Neural-Enhanced Volumetric Video Streaming(NSDI'2022)** | **2022-09-08** |
-| **XRP: In-Kernel Storage Functions with eBPF(OSDI'2022 Best Paper Award)** | **2023-02-02** |
+| **XRP: In-Kernel Storage Functions with eBPF(OSDI'2022)**    | **2023-02-02** |
 
