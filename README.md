@@ -17,4 +17,7 @@ Everyday(I guess) I will upload one Paper I read as well as the notes I summariz
 | **Deep State Space Models for Time Series Forecasting(NIPS'2018)** | **2022-07-25** |
 | **Yuzu: Neural-Enhanced Volumetric Video Streaming(NSDI'2022)** | **2022-09-08** |
 | **XRP: In-Kernel Storage Functions with eBPF(OSDI'2022)**    | **2023-02-02** |
+| **A Unified Architecture for Accelerating Distributed DNN Training in Heterogeneous GPU/CPU Clusters (OSDI'2020)** | **2023-02-16** |
+
+
 
