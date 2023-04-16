@@ -1,7 +1,8 @@
 ### Paper Reading   
 ---
-Hi! This is my repo for storing my notes of paper reading.  
-Every day (I guess) I will upload one Paper I read as well as the notes I summarize(of course, it will be quite messy notes). 
+Hi! This is my repo for storing my records of paper reading.  
+
+The following table records the paper I read (Hopefully I can update this repo more frequently).
 
 ---
 
@@ -19,6 +20,7 @@ Every day (I guess) I will upload one Paper I read as well as the notes I summar
 | **XRP: In-Kernel Storage Functions with eBPF(OSDI'2022)**    | **2023-02-02** |
 | **A Unified Architecture for Accelerating Distributed DNN Training in Heterogeneous GPU/CPU Clusters (OSDI'2020)** | **2023-02-16** |
 | **IODA: A Host/Device Co-Design for Strong Predictability Contract on Modern Flash Storage (SOSP'2021)** | **2023-02-20** |
+| **EVStore (ASPLOS'2023)**                                    | **2023-04-16** |
 
 
 
