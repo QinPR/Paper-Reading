@@ -23,6 +23,7 @@ The following table records the paper I read (Hopefully I can update this repo m
 | **IODA: A Host/Device Co-Design for Strong Predictability Contract on Modern Flash Storage (SOSP'2021)** | **2023-02-20** |
 | **EVStore (ASPLOS'2023)**                                    | **2023-04-16** |
 | **LIBROS (CLOUD'2022)**                                      | **2023-04-17** |
+| **LAKE (ASPLOS'2023)**                                       | **2023-04-18** |
 
 
 
