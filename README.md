@@ -25,6 +25,7 @@ The following table records the paper I read (Hopefully I can update this repo m
 | **LIBROS (CLOUD'2022)**                                      | **2023-04-17** |
 | **LAKE (ASPLOS'2023)**                                       | **2023-04-18** |
 | **LinnOS (OSDI'2020)**                                       | **2023-04-19** |
+| **Fantastic SSD Internals and How to Learn and Use Them (SYSTOR'2022)** | **2023-04-20** |
 
 
 
