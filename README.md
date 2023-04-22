@@ -19,8 +19,8 @@ The following table records the paper I read (Hopefully I can update this repo m
 | **Deep State Space Models for Time Series Forecasting(NIPS'2018)** | **2022-07-25** |
 | **Yuzu: Neural-Enhanced Volumetric Video Streaming(NSDI'2022)** | **2022-09-08** |
 | **XRP: In-Kernel Storage Functions with eBPF(OSDI'2022)**    | **2023-02-02** |
-| **A Unified Architecture for Accelerating Distributed DNN Training in Heterogeneous GPU/CPU Clusters (OSDI'2020)** | **2023-02-16** |
-| **IODA: A Host/Device Co-Design for Strong Predictability Contract on Modern Flash Storage (SOSP'2021)** | **2023-02-20** |
+| **BytePS (OSDI'2020)**                                       | **2023-02-16** |
+| **IODA (SOSP'2021)**                                         | **2023-02-20** |
 | **EVStore (ASPLOS'2023)**                                    | **2023-04-16** |
 | **LIBROS (CLOUD'2022)**                                      | **2023-04-17** |
 | **LAKE (ASPLOS'2023)**                                       | **2023-04-18** |
