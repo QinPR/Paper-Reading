@@ -28,6 +28,7 @@ The following table records the paper I read (Hopefully I can update this repo m
 | **Fantastic SSD Internals and How to Learn and Use Them (SYSTOR'2022)** | **2023-04-20** |
 | **IONET**                                                    | **2023-04-21** |
 | **LeapIO (ASPLOS'2020)**                                     | **2023-04-22** |
+| **SODP (DSN'2020)**                                          | **2023-04-23** |
 
 
 
