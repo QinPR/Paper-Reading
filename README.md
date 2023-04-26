@@ -31,6 +31,7 @@ The following table records the paper I read (Hopefully I can update this repo m
 | **SODP (DSN'2020)**                                          | **2023-04-23** |
 | **KML (TOS'2023)**                                           | **2023-04-24** |
 | **MittOS (SOSP'2017)**                                       | **2023-04-25** |
+| **TTFLASH (FAST'2017)**                                      | **2023-04-26** |
 
 
 
