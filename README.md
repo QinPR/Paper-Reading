@@ -32,6 +32,7 @@ The following table records the paper I read (Hopefully I can update this repo m
 | **KML (TOS'2023)**                                           | **2023-04-24** |
 | **MittOS (SOSP'2017)**                                       | **2023-04-25** |
 | **TTFLASH (FAST'2017)**                                      | **2023-04-26** |
+| **FrozenHot Cache (Eurosys'2023)**                           | **2023-04-27** |
 
 
 
