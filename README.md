@@ -34,6 +34,7 @@ The following table records the paper I read (Hopefully I can update this repo m
 | **TTFLASH (FAST'2017)**                                      | **2023-04-26** |
 | **FrozenHot Cache (Eurosys'2023)**                           | **2023-04-27** |
 | **MenLiner (OSDI'2022)**                                     | **2023-04-28** |
+| **zIO (OSDI'2022)**                                          | **2023-04-30** |
 
 
 
