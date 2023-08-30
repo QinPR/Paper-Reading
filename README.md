@@ -42,6 +42,7 @@ The following table records the paper I read (Hopefully I can update this repo m
 | **IOFlow (SOSP'2013)**                                       | **2023-06-17** |
 | **Userspace Bypass (OSDI'2023)**                             | **2023-07-13** |
 | **Relational Debugging (OSDI'2023)**                         | **2023-08-13** |
+| **FIFO can be Better than LRU (HotOS'2023)**                 | **2023-08-30** |
 
 
 
