@@ -45,6 +45,7 @@ The following table records the paper I read (Hopefully I can update this repo m
 | **FIFO can be Better than LRU (HotOS'2023)**                 | **2023-08-30** |
 | **ZNS (ATC'2021)**                                           | **2023-09-04** |
 | **C3 (NSDI'2015)**                                           | **2023-09-07** |
+| **Where Is My Training Bottleneck Hidden Trade-Offs (SIGMOD'2022)** | **2023-09-21** |
 
 
 
