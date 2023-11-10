@@ -48,6 +48,7 @@ The following table records the paper I read (Hopefully I can update this repo m
 | **Where Is My Training Bottleneck Hidden Trade-Offs (SIGMOD'2022)** | **2023-09-21** |
 | **GoldMiner (SIGMOD'2023)**                                  | **2023-10-11** |
 | **MemGPT**                                                   | **2023-11-07** |
+| **AlpaServe (OSDI'2023)**                                    | **2023-11-09** |
 
 
 
