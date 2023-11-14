@@ -50,6 +50,7 @@ The following table records the paper I read (Hopefully I can update this repo m
 | **MemGPT**                                                   | **2023-11-07** |
 | **AlpaServe (OSDI'2023)**                                    | **2023-11-09** |
 | **Welder (OSDI'2023)**                                       | **2023-11-13** |
+| **SCALENE (OSDI'2023)**                                      | **2023-11-14** |
 
 
 
