@@ -51,6 +51,7 @@ The following table records the paper I read (Hopefully I can update this repo m
 | **AlpaServe (OSDI'2023)**                                    | **2023-11-09** |
 | **Welder (OSDI'2023)**                                       | **2023-11-13** |
 | **SCALENE (OSDI'2023)**                                      | **2023-11-14** |
+| **Karma (OSDI'2023)**                                        | **2023-12-14** |
 
 
 
