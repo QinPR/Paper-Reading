@@ -53,6 +53,7 @@ The following table records the paper I read (Hopefully I can update this repo m
 | **SCALENE (OSDI'2023)**                                      | **2023-11-14** |
 | **Karma (OSDI'2023)**                                        | **2023-12-14** |
 | **Contiguitas (ISCA'2023)**                                  | **2023-12-28** |
+| **NCC (OSDI'2023)**                                          | **2023-12-29** |
 
 
 
