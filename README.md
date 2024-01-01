@@ -55,6 +55,7 @@ The following table records the paper I read (Hopefully I can update this repo m
 | **Contiguitas (ISCA'2023)**                                  | **2023-12-28** |
 | **NCC (OSDI'2023)**                                          | **2023-12-29** |
 | **Mimir (SYSTOR'2023)**                                      | **2023-12-31** |
+| **GL-Cache (FAST'2023)**                                     | **2024-01-01** |
 
 
 
