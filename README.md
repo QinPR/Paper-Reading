@@ -57,6 +57,7 @@ The following table records the paper I read (Hopefully I can update this repo m
 | **Mimir (SYSTOR'2023)**                                      | **2023-12-31** |
 | **GL-Cache (FAST'2023)**                                     | **2024-01-01** |
 | **Matchmaker (MLSys'2022)**                                  | **2024-01-02** |
+| **Kangaroo (ToS'2022)**                                      | **2024-01-03** |
 
 
 
