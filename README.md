@@ -58,9 +58,9 @@ The following table records the paper I read (Hopefully I can update this repo m
 | **GL-Cache (FAST'2023)**                                     | **2024-01-01** |
 | **Matchmaker (MLSys'2022)**                                  | **2024-01-02** |
 | **Kangaroo (ToS'2022)**                                      | **2024-01-03** |
-| **TS (SIGMOD'2022)**                                         | **2023-01-04** |
-| **PrismDB (ASPLOS'2023)**                                    | **2023-01-05** |
-| **Morty (EuroSys'2023)**                                     | **2023-01-06** |
+| **TS (SIGMOD'2022)**                                         | **2024-01-04** |
+| **PrismDB (ASPLOS'2023)**                                    | **2024-01-05** |
+| **Morty (EuroSys'2023)**                                     | **2024-01-06** |
 
 
 
