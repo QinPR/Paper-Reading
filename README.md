@@ -61,6 +61,7 @@ The following table records the paper I read (Hopefully I can update this repo m
 | **TS (SIGMOD'2022)**                                         | **2024-01-04** |
 | **PrismDB (ASPLOS'2023)**                                    | **2024-01-05** |
 | **Morty (EuroSys'2023)**                                     | **2024-01-06** |
+| **Database Gym (CIDR'2023)**                                 | **2024-01-09** |
 
 
 
