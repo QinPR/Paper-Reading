@@ -65,6 +65,7 @@ The following table records the paper I read (Hopefully I can update this repo m
 | **NURD (MLSys'2022)**                                        | **2024-01-19** |
 | **PerfD (NSDI'2021)**                                        | **2024-01-20** |
 | **Leap (ATC'2020)**                                          | **2024-01-31** |
+| **Baleen (FAST'2024)**                                       | **2024-03-18** |
 
 
 
