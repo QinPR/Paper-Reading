@@ -67,6 +67,7 @@ The following table records the paper I read (Hopefully I can update this repo m
 | **Leap (ATC'2020)**                                          | **2024-01-31** |
 | **Baleen (FAST'2024)**                                       | **2024-03-18** |
 | **ArckFS (SOSP'2023)**                                       | **2024-04-01** |
+| **XStore (OSDI'2020)**                                       | **2024-04-05** |
 
 
 
