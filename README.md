@@ -74,6 +74,7 @@ The following table records the paper I read (Hopefully I can update this repo m
 | **SIEVE (NSDI'2024)**                                        | **2024-06-13** |
 | **Mithril (SOCC'2017)**                                      | **2024-06-18** |
 | **Pythia (MICRO'2021)**                                      | **2024-06-26** |
+| **Large-Scale Analysis of In Memory Cache (OSDI'2020)**      | **2024-06-27** |
 
 
 
