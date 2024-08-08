@@ -77,6 +77,7 @@ The following table records the paper I read (Hopefully I can update this repo m
 | **Large-Scale Analysis of In Memory Cache (OSDI'2020)**      | **2024-06-27** |
 | **Segcache (NSDI'2021)**                                     | **2024-07-02** |
 | **SGDP (arXiv'2023)**                                        | **2024-07-24** |
+| **Tectonic (FAST'2021)**                                     | **2024-08-08** |
 
 
 
