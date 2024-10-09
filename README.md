@@ -80,6 +80,7 @@ The following table records the paper I read (Hopefully I can update this repo m
 | **Tectonic (FAST'2021)**                                     | **2024-08-08** |
 | **THE**                                                      | **2024-10-01** |
 | **Nucleus (Communications of the ACM'1970)**                 | **2024-10-06** |
+| **Multics (Communications of the ACM'1968)**                 | **2024-10-08** |
 
 
 
