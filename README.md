@@ -85,6 +85,7 @@ The following table records the paper I read (Hopefully I can update this repo m
 | **ModelKeeper (NSDI'2023)**                                  | **2024-10-11** |
 | **Unix (Communications of the ACM'1974)**                    | **2024-10-13** |
 | **MULTI_CLOCK (HPCA'2022)**                                  | **2024-10-19** |
+| **GlogS (ATC'2023)**                                         | **2024-10-20** |
 
 
 
