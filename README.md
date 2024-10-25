@@ -86,6 +86,7 @@ The following table records the paper I read (Hopefully I can update this repo m
 | **Unix (Communications of the ACM'1974)**                    | **2024-10-13** |
 | **MULTI_CLOCK (HPCA'2022)**                                  | **2024-10-19** |
 | **GlogS (ATC'2023)**                                         | **2024-10-20** |
+| **MLPerf (ISCA'2020)**                                       | **2024-10-25** |
 
 
 
