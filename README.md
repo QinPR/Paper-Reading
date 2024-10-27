@@ -87,6 +87,7 @@ The following table records the paper I read (Hopefully I can update this repo m
 | **MULTI_CLOCK (HPCA'2022)**                                  | **2024-10-19** |
 | **GlogS (ATC'2023)**                                         | **2024-10-20** |
 | **MLPerf (ISCA'2020)**                                       | **2024-10-25** |
+| **PetS (ATC'2022)**                                          | **2024-10-27** |
 
 
 
