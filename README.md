@@ -89,6 +89,7 @@ The following table records the paper I read (Hopefully I can update this repo m
 | **MLPerf (ISCA'2020)**                                       | **2024-10-25** |
 | **PetS (ATC'2022)**                                          | **2024-10-27** |
 | **Lottery Scheduling (OSDI'1994)**                           | **2024-10-27** |
+| **Disco (SOSP'1997)**                                        | **2024-11-03** |
 
 
 
