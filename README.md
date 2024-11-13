@@ -91,6 +91,7 @@ The following table records the paper I read (Hopefully I can update this repo m
 | **Lottery Scheduling (OSDI'1994)**                           | **2024-10-27** |
 | **Disco (SOSP'1997)**                                        | **2024-11-03** |
 | **FFS (TOC'1984)**                                           | **2024-11-05** |
+| **TensorFlow (OSDI'2016)**                                   | **2024-11-12** |
 
 
 
