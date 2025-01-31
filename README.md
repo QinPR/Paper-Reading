@@ -96,6 +96,7 @@ The following table records the paper I read (Hopefully I can update this repo m
 | **Cacheus (FAST'2021)**                                      | **2025-01-23** |
 | **MinIO (VLDB'2021)**                                        | **2025-01-27** |
 | **DeepSeek (arXiv'2025)**                                    | **2025-01-27** |
+| **CacheGen (SIGCOMM'2024)**                                  | **2025-01-30** |
 
 
 
