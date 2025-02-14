@@ -98,6 +98,7 @@ The following table records the paper I read (Hopefully I can update this repo m
 | **DeepSeek (arXiv'2025)**                                    | **2025-01-27** |
 | **CacheGen (SIGCOMM'2024)**                                  | **2025-01-30** |
 | **CacheBlend (arXiv'2024)**                                  | **2025-01-31** |
+| **FairWREN (OSDI'2024)**                                     | **2025-02-13** |
 
 
 
