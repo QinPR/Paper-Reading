@@ -101,6 +101,7 @@ The following table records the paper I read (Hopefully I can update this repo m
 | **FairWREN (OSDI'2024)**                                     | **2025-02-13** |
 | **MoonCake (FAST'2025)**                                     | **2025-03-24** |
 | **MLPerf Training (MLSys'2020)**                             | **2025-04-11** |
+| **DistServe (OSDI'2024)**                                    | **2025-05-02** |
 
 
 
