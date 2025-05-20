@@ -8,6 +8,8 @@ The following table records the paper I read (Hopefully I can update this repo m
 
 #### Table of contents
 
+
+
 |                                                              |                |
 | ------------------------------------------------------------ | -------------- |
 | **In-Network Aggregation for Shared Machine Learning Clusters (MLsys' 2021)** | **2022-06-23** |
@@ -102,6 +104,7 @@ The following table records the paper I read (Hopefully I can update this repo m
 | **MoonCake (FAST'2025)**                                     | **2025-03-24** |
 | **MLPerf Training (MLSys'2020)**                             | **2025-04-11** |
 | **DistServe (OSDI'2024)**                                    | **2025-05-02** |
+| **BLITZSCALE (OSDI'2025)**                                   | **2025-05-20** |
 
 
 
