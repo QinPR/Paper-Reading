@@ -107,6 +107,7 @@ The following table records the paper I read (Hopefully I can update this repo m
 | **BLITZSCALE (OSDI'2025)**                                   | **2025-05-20** |
 | **LlamaFactor (ACL'2024)**                                   | **2025-05-28** |
 | **Helix (ASPLOS'2025)**                                      | **2025-08-12** |
+| **FlashAttention (NIPS'2022)**                               | **2025-12-03** |
 
 
 
