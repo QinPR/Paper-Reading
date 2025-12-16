@@ -8,6 +8,8 @@ The following table records the paper I read (Hopefully I can update this repo m
 
 #### Table of contents
 
+
+
 |                                                              |                |
 | ------------------------------------------------------------ | -------------- |
 | **In-Network Aggregation for Shared Machine Learning Clusters (MLsys' 2021)** | **2022-06-23** |
@@ -94,6 +96,18 @@ The following table records the paper I read (Hopefully I can update this repo m
 | **TensorFlow (OSDI'2016)**                                   | **2024-11-12** |
 | **vLLM (SOSP'2023)**                                         | **2024-11-13** |
 | **Cacheus (FAST'2021)**                                      | **2025-01-23** |
+| **MinIO (VLDB'2021)**                                        | **2025-01-27** |
+| **DeepSeek (arXiv'2025)**                                    | **2025-01-27** |
+| **CacheGen (SIGCOMM'2024)**                                  | **2025-01-30** |
+| **CacheBlend (arXiv'2024)**                                  | **2025-01-31** |
+| **FairWREN (OSDI'2024)**                                     | **2025-02-13** |
+| **MoonCake (FAST'2025)**                                     | **2025-03-24** |
+| **MLPerf Training (MLSys'2020)**                             | **2025-04-11** |
+| **DistServe (OSDI'2024)**                                    | **2025-05-02** |
+| **BLITZSCALE (OSDI'2025)**                                   | **2025-05-20** |
+| **LlamaFactor (ACL'2024)**                                   | **2025-05-28** |
+| **Helix (ASPLOS'2025)**                                      | **2025-08-12** |
+| **FlashAttention (NIPS'2022)**                               | **2025-12-03** |
 | **LMCache (Arvix'2025)**                                     | **2025-12-16** |
 
 
