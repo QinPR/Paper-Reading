@@ -94,6 +94,7 @@ The following table records the paper I read (Hopefully I can update this repo m
 | **TensorFlow (OSDI'2016)**                                   | **2024-11-12** |
 | **vLLM (SOSP'2023)**                                         | **2024-11-13** |
 | **Cacheus (FAST'2021)**                                      | **2025-01-23** |
+| **LMCache (Arvix'2025)**                                     | **2025-12-16** |
 
 
 
