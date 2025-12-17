@@ -109,6 +109,9 @@ The following table records the paper I read (Hopefully I can update this repo m
 | **Helix (ASPLOS'2025)**                                      | **2025-08-12** |
 | **FlashAttention (NIPS'2022)**                               | **2025-12-03** |
 | **LMCache (Arvix'2025)**                                     | **2025-12-16** |
+| **FastServe (NSDI'2026)**                                    | **2025-12-16** |
+
+
 
 
 
