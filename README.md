@@ -112,6 +112,7 @@ The following table records the paper I read (Hopefully I can update this repo m
 | **FastServe (NSDI'2026)**                                    | **2025-12-16** |
 | **SGLang (Arvix'2024)**                                      | **2025-12-18** |
 | **Sarathi Serve (OSDI'2024)**                                | **2025-12-19** |
+| **Llumnix Serve (OSDI'2024)**                                | **2025-12-22** |
 
 
 
