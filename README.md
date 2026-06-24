@@ -113,6 +113,7 @@ The following table records the paper I read (Hopefully I can update this repo m
 | **SGLang (Arvix'2024)**                                      | **2025-12-18** |
 | **Sarathi Serve (OSDI'2024)**                                | **2025-12-19** |
 | **Llumnix Serve (OSDI'2024)**                                | **2025-12-22** |
+| **Meta-Inference (MLSys'2026)**                              | **2026-06-23** |
 
 
 
