@@ -115,6 +115,7 @@ The following table records the paper I read (Hopefully I can update this repo m
 | **Llumnix Serve (OSDI'2024)**                                | **2025-12-22** |
 | **Meta-Inference (MLSys'2026)**                              | **2026-06-23** |
 | **LAH (OSDI'2026)**                                          | **2026-08-04** |
+| **Strata (OSDI'2026)**                                       | **2026-08-04** |
 
 
 
