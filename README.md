@@ -117,6 +117,9 @@ The following table records the paper I read (Hopefully I can update this repo m
 | **LAH (OSDI'2026)**                                          | **2026-08-04** |
 | **Strata (OSDI'2026)**                                       | **2026-08-04** |
 | **LMETRIC (OSDI'2026)**                                      | **2026-08-07** |
+| **DeepSeek-V4 (Arvix'2026)**                                 | **2026-08-19** |
+
+
 
 
 
