@@ -120,6 +120,7 @@ The following table records the paper I read (Hopefully I can update this repo m
 | **DeepSeek-V4 (Arvix'2026)**                                 | **2026-08-19** |
 | **DeepSeek-V4.1-Flash**                                      | **2026-09-10** |
 | **Engram (Arvix'2026)**                                      | **2026-09-10** |
+| **DeepSeek-V3.2 (Arvix'2025)**                               | **2026-09-10** |
 
 
 
