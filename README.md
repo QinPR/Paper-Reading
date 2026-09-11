@@ -122,6 +122,7 @@ The following table records the paper I read (Hopefully I can update this repo m
 | **Engram (Arvix'2026)**                                      | **2026-09-10** |
 | **DeepSeek-V3.2 (Arvix'2025)**                               | **2026-09-10** |
 | **DeepSeek-V2 (Arvix'2024)**                                 | **2026-09-11** |
+| **DeepSeekMoE (Arvix'2024)**                                 | **2026-09-11** |
 
 
 
