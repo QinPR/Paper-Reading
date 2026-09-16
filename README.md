@@ -125,6 +125,7 @@ The following table records the paper I read (Hopefully I can update this repo m
 | **DeepSeekMoE (Arvix'2024)**                                 | **2026-09-11** |
 | **DeepSeek-V3 (Arvix'2025)**                                 | **2026-09-14** |
 | **DeepSeek-V3 on hardware for AI architectures (ISCA'2025)** | **2026-09-14** |
+| **NSA (Arvix'2025)**                                         | **2026-09-15** |
 
 
 
