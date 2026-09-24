@@ -130,6 +130,7 @@ The following table records the paper I read (Hopefully I can update this repo m
 | **ResNet (CVPR'2016)**                                       | **2026-09-22** |
 | **Hyper Connection (ICLR'2025)**                             | **2026-09-23** |
 | **You Only Cache Once (NeurIPS'2024)**                       | **2026-09-24** |
+| **Stompy (arXiv'2026)**                                      | **2026-09-24** |
 
 
 
