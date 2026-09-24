@@ -128,6 +128,7 @@ The following table records the paper I read (Hopefully I can update this repo m
 | **NSA (Arvix'2025)**                                         | **2026-09-15** |
 | **DeepSeek-V3.2-Exp**                                        | **2026-09-16** |
 | **ResNet (CVPR'2016)**                                       | **2026-09-22** |
+| **Hyper Connection (ICLR'2025)**                             | **2026-09-23** |
 
 
 
