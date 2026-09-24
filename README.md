@@ -129,6 +129,7 @@ The following table records the paper I read (Hopefully I can update this repo m
 | **DeepSeek-V3.2-Exp**                                        | **2026-09-16** |
 | **ResNet (CVPR'2016)**                                       | **2026-09-22** |
 | **Hyper Connection (ICLR'2025)**                             | **2026-09-23** |
+| **You Only Cache Once (NeurIPS'2024)**                       | **2026-09-24** |
 
 
 
