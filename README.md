@@ -108,7 +108,7 @@ The following table records the paper I read (Hopefully I can update this repo m
 | **LlamaFactor (ACL'2024)**                                   | **2025-05-28** |
 | **Helix (ASPLOS'2025)**                                      | **2025-08-12** |
 | **FlashAttention (NIPS'2022)**                               | **2025-12-03** |
-| **LMCache (Arvix'2025)**                                     | **2025-12-16** |
+| **LMCache (ArXiv'2025)**                                     | **2025-12-16** |
 | **FastServe (NSDI'2026)**                                    | **2025-12-16** |
 | **SGLang (Arvix'2024)**                                      | **2025-12-18** |
 | **Sarathi Serve (OSDI'2024)**                                | **2025-12-19** |
@@ -117,15 +117,15 @@ The following table records the paper I read (Hopefully I can update this repo m
 | **LAH (OSDI'2026)**                                          | **2026-08-04** |
 | **Strata (OSDI'2026)**                                       | **2026-08-04** |
 | **LMETRIC (OSDI'2026)**                                      | **2026-08-07** |
-| **DeepSeek-V4 (Arvix'2026)**                                 | **2026-08-19** |
+| **DeepSeek-V4 (ArXiv'2026)**                                 | **2026-08-19** |
 | **DeepSeek-V4.1-Flash**                                      | **2026-09-10** |
-| **Engram (Arvix'2026)**                                      | **2026-09-10** |
-| **DeepSeek-V3.2 (Arvix'2025)**                               | **2026-09-10** |
-| **DeepSeek-V2 (Arvix'2024)**                                 | **2026-09-11** |
-| **DeepSeekMoE (Arvix'2024)**                                 | **2026-09-11** |
-| **DeepSeek-V3 (Arvix'2025)**                                 | **2026-09-14** |
+| **Engram (ArXiv'2026)**                                      | **2026-09-10** |
+| **DeepSeek-V3.2 (ArXiv'2025)**                               | **2026-09-10** |
+| **DeepSeek-V2 (ArXiv'2024)**                                 | **2026-09-11** |
+| **DeepSeekMoE (ArXiv'2024)**                                 | **2026-09-11** |
+| **DeepSeek-V3 (ArXiv'2025)**                                 | **2026-09-14** |
 | **DeepSeek-V3 on hardware for AI architectures (ISCA'2025)** | **2026-09-14** |
-| **NSA (Arvix'2025)**                                         | **2026-09-15** |
+| **NSA (ArXiv'2025)**                                         | **2026-09-15** |
 | **DeepSeek-V3.2-Exp**                                        | **2026-09-16** |
 | **ResNet (CVPR'2016)**                                       | **2026-09-22** |
 | **Hyper Connection (ICLR'2025)**                             | **2026-09-23** |
