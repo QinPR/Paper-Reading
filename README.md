@@ -134,6 +134,7 @@ The following table records the paper I read (Hopefully I can update this repo m
 | **mHC (arXiv'2026)**                                         | **2026-09-24** |
 | **StreamingLLM (ICLR'2023)**                                 | **2026-10-16** |
 | **Transformers are RNN (ICML'2020)**                         | **2026-10-23** |
+| **MPK (OSDI'2026)**                                          | **2026-10-27** |
 
 
 
