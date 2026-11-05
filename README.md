@@ -135,6 +135,7 @@ The following table records the paper I read (Hopefully I can update this repo m
 | **StreamingLLM (ICLR'2023)**                                 | **2026-10-16** |
 | **Transformers are RNN (ICML'2020)**                         | **2026-10-23** |
 | **MPK (OSDI'2026)**                                          | **2026-10-27** |
+| **ClusterFusion (NeurIPS'2025)**                             | **2026-11-04** |
 
 
 
