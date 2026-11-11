@@ -138,8 +138,7 @@ The following table records the paper I read (Hopefully I can update this repo m
 | **ClusterFusion (NeurIPS'2025)**                             | **2026-11-04** |
 | **Qwen 3.8 Next Architecture (ArXiv'2026)**                  | **2026-11-10** |
 | **Gated DeltaNet (ICLR'2025)**                               | **2026-11-10** |
-
-
+| **Kimi3 (ArXiv'2026)**                                       | **2026-11-10** |
 
 
 
