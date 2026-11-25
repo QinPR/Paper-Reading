@@ -141,6 +141,7 @@ The following table records the paper I read (Hopefully I can update this repo m
 | **Kimi3 (ArXiv'2026)**                                       | **2026-11-10** |
 | **Blink (ArXiv'2026)**                                       | **2026-11-11** |
 | **CAKE (ArXiv'2026)**                                        | **2026-11-12** |
+| **LYNX (MLSys'2026)**                                        | **2026-11-25** |
 
 
 
